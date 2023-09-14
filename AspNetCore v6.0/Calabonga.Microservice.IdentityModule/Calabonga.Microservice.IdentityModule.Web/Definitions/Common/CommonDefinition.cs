@@ -21,6 +21,7 @@ public class CommonDefinition : AppDefinition
 
         services.AddMvc();
         services.AddRazorPages();
+        
     }
 
     /// <summary>
